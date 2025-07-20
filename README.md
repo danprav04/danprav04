@@ -14,6 +14,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+[![CCNA](https://img.shields.io/badge/CCNA-005073?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/f639002f-8a6d-4f0f-9969-fd134d45dfa3/public_url)
 
 ---
 
